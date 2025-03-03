@@ -20,11 +20,13 @@ Project consists blah blah.
 
 <p align="center">
 Example Pictures: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gWQomwe.png" height="100%" width="45%" alt="Front View"/>
+<img src="https://i.imgur.com/nt2MHbg.png" height="45%" width="45%" alt="Upper Left View"/>
+<img src="https://i.imgur.com/Noc0zAS.png" height="45%" width="45%" alt="Top View"/>
+<img src="https://i.imgur.com/mCxs15b.png" height="45%" width="45%" alt="Back View"/>
+
+
 <br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
