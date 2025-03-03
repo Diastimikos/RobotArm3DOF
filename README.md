@@ -3,7 +3,7 @@
  ### [YouTube Example](https://youtu.be/7eJexJVCqJo) EDIT
 
 <h2>Description</h2>
-Project consists blah blah. EDIT
+Project consists blah blah. <b>EDIT</b>
 <br />
 
 
