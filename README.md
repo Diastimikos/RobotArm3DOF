@@ -1,9 +1,9 @@
 <h1>Robot Arm with 3 DOF</h1>
 
- ### [YouTube Example](https://youtu.be/7eJexJVCqJo)
+ ### [YouTube Example](https://youtu.be/7eJexJVCqJo) EDIT
 
 <h2>Description</h2>
-Project consists blah blah.
+Project consists blah blah. EDIT
 <br />
 
 
