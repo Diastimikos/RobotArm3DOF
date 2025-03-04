@@ -1,4 +1,4 @@
-<h1>Robot Arm with 3 DOF</h1>
+<h1>Robotic Arm with 3 DOF</h1>
 
  ### [YouTube Example](https://youtu.be/7eJexJVCqJo) EDIT
 
