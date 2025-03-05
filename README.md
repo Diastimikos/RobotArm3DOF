@@ -7,7 +7,7 @@ Positioning the end effector of a Robotic Arm at a specific location in space th
 The system takes as input the variables x, y, z for the corresponding coordinates.
 
  ### Hardware
- -  The servos are connected in series, to a 3.3V power source and GND
+ *  The servos are connected in series, to a 3.3V power source and GND
  *  The signals for the servos are at digital pins: base-7, large link-5, small link-6
  *  The anode of the LED is connected to digital pin 12 through a resistor and the cathode to GND
  ### Software
