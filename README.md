@@ -1,6 +1,6 @@
 <h1>Robotic Arm with 3 DOF</h1>
 
- ### [YouTube Example](https://youtu.be/7eJexJVCqJo) EDIT
+ <!--### [YouTube Example](https://youtu.be/7eJexJVCqJo) EDIT-->
 
 <h2>Description</h2>
 Positioning the end effector of a Robotic Arm at a specific location in space, quarter of a sphere, through the simultaneous movement of three servomotors.
