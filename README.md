@@ -3,7 +3,7 @@
  ### [YouTube Example](https://youtu.be/7eJexJVCqJo) EDIT
 
 <h2>Description</h2>
-Positioning the end effector of a Robotic Arm at a specific location in space through the simultaneous movement of three servomotors.
+Positioning the end effector of a Robotic Arm at a specific location in space, quarter of a sphere, through the simultaneous movement of three servomotors.
 The system takes as input the variables x, y, z for the corresponding coordinates.
 
  ### Hardware
