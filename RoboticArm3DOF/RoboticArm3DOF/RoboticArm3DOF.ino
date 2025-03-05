@@ -59,9 +59,7 @@ void setup() {
   bigServo.write(0);
   smallServo.write(180);
 }
-
 //---
-
 void loop() {
   Serial.println("Enter x");
   while (Serial.available() == 0)
@@ -190,18 +188,10 @@ void loop() {
     if (z == 0) {
       if (y == 0) {
         if (distance == maxDist) {  //Ox' max
-          // Alternative way
-          //                    baseServo.write(180);
-          //                    bigServo.write(0);
-          //                    smallServo.write(0);
           baseServo.write(0);
           bigServo.write(180);
           smallServo.write(0);
         } else if (distance == minDist) {  //Ox' min
-          /* Alternative way
-                    baseServo.write(180);
-                    bigServo.write(0);
-                    smallServo.write(180);*/
           baseServo.write(0);
           bigServo.write(180);
           smallServo.write(180);
